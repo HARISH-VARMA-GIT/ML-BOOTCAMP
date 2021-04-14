@@ -1,2 +1,2 @@
 # ML-BOOTCAMP
-My first repository on ML in Git hub
+This repository contains projects of CYBER LABS/IIT-ISM DHANBAD
